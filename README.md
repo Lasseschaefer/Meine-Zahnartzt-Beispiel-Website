@@ -22,7 +22,7 @@ Diese Website wurde als moderne Beispiel-Website für eine Zahnarztpraxis entwic
 
 ## 🌐 Live-Demo
 
-https://zahnarztwebsitebeispiel.web-developement.workers.dev
+https://zahnarzbeispielwebsite.web-developement.workers.dev
 
 ## 🎯 Ziel
 
